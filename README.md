@@ -1,8 +1,7 @@
 ---
 # 🌟 JavaSE学习之旅：跟随韩顺平老师，学习Java语言 🌟
 👋 一个热爱编程的准大四人工智能专业学生，挂这个项目主要是为了熟悉Git操作。今天，我要和大家分享我学习韩顺平老师JavaSE视频教程的心得和成果。
-<div align=center><img  src="https://github.com/Xiaoheizi2023/JAVASE/img/思维导图1.png"/></div>
-<p align="center">思维导图1</p>
+![思维导图1](https://github.com/Xiaoheizi2023/JAVASE/raw/master/img/思维导图1.png)
 ## 🚀 为什么选择韩顺平老师的JavaSE教程？
 - 📚 **全面系统**：韩老师从基础讲起，逐步深入，适合各种水平的学习者。
 - 🧠 **实战导向**：理论与实际操作相结合，让我能迅速上手。
